@@ -22,10 +22,10 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure roles and departments on osTicket
-- Configure agents and users
-- Configure SLA and help topics 
-- Create tickets as a user
+- Configure roles and departments on osTicket.
+- Configure agents and users.
+- Configure SLA and help topics. 
+- Create tickets as a user.
 - Assign tickets as admin and work them as agents.
 
 <h2>Configuration Steps</h2>
