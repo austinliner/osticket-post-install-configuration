@@ -28,4 +28,4 @@ This tutorial outlines the post-installation configuration of the open-source he
 - Create tickets as a user.
 - Assign tickets as admin and work them as agents.
 
-<h2>Configuration Steps</h2>
+
